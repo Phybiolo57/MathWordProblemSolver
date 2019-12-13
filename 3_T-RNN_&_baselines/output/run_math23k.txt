@@ -1,0 +1,1036 @@
+/users/PAS1440/deyosu78/T-RNN/second_stage
+o0002.ten.osc.edu
+Thu Nov 28 22:31:32 EST 2019
+41
+23094
+loading finished
+RECUR EPOCH: 0, loss: 0.9598976973250516, train_acc_e: 0.5665984687097931, train_acc_i: 0.37986443570175854 time: 4.415646207332611
+valid_acc_e: 0.6950998185117967, valid_acc_i: 0.5501002004008017, test_acc_e: 0.6624888093106536, test_acc_i: 0.48848848848848847
+originial 0
+saving... 0.5501002004008017
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.402, ans_acc:0.407
+
+RECUR EPOCH: 1, loss: 0.6414369841562649, train_acc_e: 0.7248950665457383, train_acc_i: 0.5719770583495284 time: 4.55181317726771
+valid_acc_e: 0.764519056261343, valid_acc_i: 0.6402805611222445, test_acc_e: 0.7354521038495971, test_acc_i: 0.5815815815815816
+originial 0.5501002004008017
+saving... 0.6402805611222445
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.497, ans_acc:0.504
+
+RECUR EPOCH: 2, loss: 0.5149708783428223, train_acc_e: 0.780536162493936, train_acc_i: 0.6479594255107362 time: 4.572122848033905
+valid_acc_e: 0.7958257713248639, valid_acc_i: 0.6793587174348698, test_acc_e: 0.7802148612354521, test_acc_i: 0.6416416416416416
+originial 0.6402805611222445
+saving... 0.6793587174348698
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.524, ans_acc:0.533
+
+RECUR EPOCH: 3, loss: 0.4361421059120118, train_acc_e: 0.8133344582480859, train_acc_i: 0.6953595297909655 time: 4.695457720756531
+valid_acc_e: 0.8171506352087115, valid_acc_i: 0.7144288577154309, test_acc_e: 0.8043867502238138, test_acc_i: 0.6716716716716716
+originial 0.6793587174348698
+saving... 0.7144288577154309
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.557, ans_acc:0.569
+
+RECUR EPOCH: 4, loss: 0.3798503679093882, train_acc_e: 0.838434118664445, train_acc_i: 0.7343224155093141 time: 4.686807099978129
+valid_acc_e: 0.838021778584392, valid_acc_i: 0.7324649298597194, test_acc_e: 0.82408236347359, test_acc_i: 0.7007007007007007
+originial 0.7144288577154309
+saving... 0.7324649298597194
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.556, ans_acc:0.568
+
+RECUR EPOCH: 5, loss: 0.3377480805358113, train_acc_e: 0.8561726181687794, train_acc_i: 0.7610560743233635 time: 4.840516785780589
+valid_acc_e: 0.8548094373865699, valid_acc_i: 0.7665330661322646, test_acc_e: 0.8245299910474485, test_acc_i: 0.7147147147147147
+originial 0.7324649298597194
+saving... 0.7665330661322646
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.581, ans_acc:0.594
+
+RECUR EPOCH: 6, loss: 0.2989977272973895, train_acc_e: 0.8713589673282571, train_acc_i: 0.7859885291747641 time: 4.862342512607574
+valid_acc_e: 0.8443738656987296, valid_acc_i: 0.7474949899799599, test_acc_e: 0.8513876454789615, test_acc_i: 0.7547547547547547
+jumping...
+
+RECUR EPOCH: 7, loss: 0.27238646024193486, train_acc_e: 0.8835713231106705, train_acc_i: 0.8028155661942457 time: 4.735196053981781
+valid_acc_e: 0.8752268602540835, valid_acc_i: 0.7945891783567134, test_acc_e: 0.859892569382274, test_acc_i: 0.7647647647647647
+originial 0.7665330661322646
+saving... 0.7945891783567134
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.606, ans_acc:0.621
+
+RECUR EPOCH: 8, loss: 0.25274942958050384, train_acc_e: 0.8915652485710067, train_acc_i: 0.8154239939327866 time: 4.733946100870768
+valid_acc_e: 0.8706896551724138, valid_acc_i: 0.7915831663326653, test_acc_e: 0.8639212175470009, test_acc_i: 0.7697697697697697
+jumping...
+
+RECUR EPOCH: 9, loss: 0.23199898326965385, train_acc_e: 0.899727911244226, train_acc_i: 0.8281272218798882 time: 4.733386703332266
+valid_acc_e: 0.8679673321234119, valid_acc_i: 0.782565130260521, test_acc_e: 0.8581020590868398, test_acc_i: 0.7597597597597597
+jumping...
+
+RECUR EPOCH: 10, loss: 0.21345222581985093, train_acc_e: 0.907764021007783, train_acc_i: 0.8401668483670665 time: 4.772222189108531
+valid_acc_e: 0.8852087114337568, valid_acc_i: 0.812625250501002, test_acc_e: 0.8657117278424351, test_acc_i: 0.7747747747747747
+originial 0.7945891783567134
+saving... 0.812625250501002
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.629, ans_acc:0.646
+
+RECUR EPOCH: 11, loss: 0.19385674710679904, train_acc_e: 0.9153782877391323, train_acc_i: 0.8526330757927667 time: 4.7862975398699446
+valid_acc_e: 0.8720508166969148, valid_acc_i: 0.7875751503006012, test_acc_e: 0.8630259623992838, test_acc_i: 0.7767767767767768
+jumping...
+
+RECUR EPOCH: 12, loss: 0.17960719047603818, train_acc_e: 0.9197865474257029, train_acc_i: 0.8591268900791582 time: 4.802683317661286
+valid_acc_e: 0.8802177858439202, valid_acc_i: 0.8006012024048096, test_acc_e: 0.8666069829901522, test_acc_i: 0.7747747747747747
+jumping...
+
+RECUR EPOCH: 13, loss: 0.17503876751476388, train_acc_e: 0.9238573326865074, train_acc_i: 0.8643883016542636 time: 4.855604068438212
+valid_acc_e: 0.882486388384755, valid_acc_i: 0.8076152304609219, test_acc_e: 0.8728737690241719, test_acc_i: 0.7917917917917918
+jumping...
+
+RECUR EPOCH: 14, loss: 0.16693986428235585, train_acc_e: 0.9282234080698573, train_acc_i: 0.8715931175048585 time: 4.841498812039693
+valid_acc_e: 0.8820326678765881, valid_acc_i: 0.8026052104208417, test_acc_e: 0.8630259623992838, test_acc_i: 0.7687687687687688
+jumping...
+
+RECUR EPOCH: 15, loss: 0.15435941675567974, train_acc_e: 0.931598152327519, train_acc_i: 0.8780395316869697 time: 4.862944372495016
+valid_acc_e: 0.8852087114337568, valid_acc_i: 0.8046092184368737, test_acc_e: 0.8782452999104745, test_acc_i: 0.7947947947947948
+jumping...
+
+RECUR EPOCH: 16, loss: 0.1457425896978019, train_acc_e: 0.9356900297399338, train_acc_i: 0.88429634545196 time: 4.976316865285238
+valid_acc_e: 0.8820326678765881, valid_acc_i: 0.811623246492986, test_acc_e: 0.8742166517457476, test_acc_i: 0.7837837837837838
+jumping...
+
+RECUR EPOCH: 17, loss: 0.13853737067180646, train_acc_e: 0.9384952859041151, train_acc_i: 0.8896051571313457 time: 4.948014156023661
+valid_acc_e: 0.8933756805807622, valid_acc_i: 0.8306613226452906, test_acc_e: 0.8791405550581916, test_acc_i: 0.7937937937937938
+originial 0.812625250501002
+saving... 0.8306613226452906
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.622, ans_acc:0.639
+
+RECUR EPOCH: 18, loss: 0.1277946700087858, train_acc_e: 0.9429457298939065, train_acc_i: 0.8966203725648196 time: 5.037818920612335
+valid_acc_e: 0.895644283121597, valid_acc_i: 0.8246492985971944, test_acc_e: 0.8666069829901522, test_acc_i: 0.7757757757757757
+jumping...
+
+RECUR EPOCH: 19, loss: 0.12305970938192955, train_acc_e: 0.9465313956676721, train_acc_i: 0.9017869839313647 time: 4.921447825431824
+valid_acc_e: 0.8802177858439202, valid_acc_i: 0.8026052104208417, test_acc_e: 0.8769024171888988, test_acc_i: 0.7887887887887888
+jumping...
+
+RECUR EPOCH: 20, loss: 0.12145759989858668, train_acc_e: 0.946636856425724, train_acc_i: 0.9019765843484856 time: 4.938371658325195
+valid_acc_e: 0.8852087114337568, valid_acc_i: 0.8196392785571143, test_acc_e: 0.8795881826320502, test_acc_i: 0.7987987987987988
+jumping...
+
+RECUR EPOCH: 21, loss: 0.11505386176055223, train_acc_e: 0.9499483242285546, train_acc_i: 0.9070957956107504 time: 4.797950891653697
+valid_acc_e: 0.8888384754990926, valid_acc_i: 0.8256513026052105, test_acc_e: 0.8894359892569382, test_acc_i: 0.8038038038038038
+jumping...
+
+RECUR EPOCH: 22, loss: 0.10873444947658353, train_acc_e: 0.9527746725443462, train_acc_i: 0.9127838081243779 time: 5.008314641316732
+valid_acc_e: 0.9038112522686026, valid_acc_i: 0.8396793587174348, test_acc_e: 0.8795881826320502, test_acc_i: 0.8028028028028028
+originial 0.8306613226452906
+saving... 0.8396793587174348
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.624, ans_acc:0.641
+
+RECUR EPOCH: 23, loss: 0.10661711018996388, train_acc_e: 0.9533863449410475, train_acc_i: 0.9128786083329383 time: 4.7514356017112735
+valid_acc_e: 0.8924682395644283, valid_acc_i: 0.814629258517034, test_acc_e: 0.8822739480752014, test_acc_i: 0.7967967967967968
+jumping...
+
+RECUR EPOCH: 24, loss: 0.09801851237123355, train_acc_e: 0.9560439560439561, train_acc_i: 0.9179978195952031 time: 4.995413688818614
+valid_acc_e: 0.8988203266787659, valid_acc_i: 0.8336673346693386, test_acc_e: 0.8903312444046553, test_acc_i: 0.8118118118118118
+jumping...
+
+RECUR EPOCH: 25, loss: 0.10204710128986452, train_acc_e: 0.9563181540148911, train_acc_i: 0.9182348201166043 time: 4.912336178620657
+valid_acc_e: 0.8906533575317604, valid_acc_i: 0.8176352705410822, test_acc_e: 0.8840644583706356, test_acc_i: 0.8078078078078078
+jumping...
+
+RECUR EPOCH: 26, loss: 0.09799883125603535, train_acc_e: 0.9575836831115142, train_acc_i: 0.9205100251220553 time: 4.741336981455485
+valid_acc_e: 0.897005444646098, valid_acc_i: 0.8306613226452906, test_acc_e: 0.8880931065353626, test_acc_i: 0.8088088088088088
+jumping...
+
+RECUR EPOCH: 27, loss: 0.08656542249155995, train_acc_e: 0.9616966526755394, train_acc_i: 0.9273356401384083 time: 5.083453925450643
+valid_acc_e: 0.9010889292196007, valid_acc_i: 0.8296593186372746, test_acc_e: 0.8804834377797672, test_acc_i: 0.8078078078078078
+jumping...
+
+RECUR EPOCH: 28, loss: 0.08734260181515728, train_acc_e: 0.9632996561979288, train_acc_i: 0.9298478456652605 time: 4.723764057954153
+valid_acc_e: 0.8929219600725953, valid_acc_i: 0.814629258517034, test_acc_e: 0.8818263205013429, test_acc_i: 0.7997997997997998
+jumping...
+
+RECUR EPOCH: 29, loss: 0.08697549519771625, train_acc_e: 0.9625192465883444, train_acc_i: 0.9289946437882163 time: 4.972576900323232
+valid_acc_e: 0.8988203266787659, valid_acc_i: 0.8316633266533067, test_acc_e: 0.8930170098478066, test_acc_i: 0.8238238238238238
+jumping...
+
+RECUR EPOCH: 30, loss: 0.08607926508456407, train_acc_e: 0.9641433422623442, train_acc_i: 0.9322178508792719 time: 4.728456751505534
+valid_acc_e: 0.9019963702359347, valid_acc_i: 0.8386773547094188, test_acc_e: 0.8858549686660698, test_acc_i: 0.8028028028028028
+jumping...
+
+RECUR EPOCH: 31, loss: 0.08218492757176392, train_acc_e: 0.9655987007234608, train_acc_i: 0.9339242546333602 time: 4.992137523492177
+valid_acc_e: 0.897912885662432, valid_acc_i: 0.8306613226452906, test_acc_e: 0.8957027752909579, test_acc_i: 0.8258258258258259
+jumping...
+
+RECUR EPOCH: 32, loss: 0.07909652884431259, train_acc_e: 0.9663580181814347, train_acc_i: 0.9360572593259705 time: 4.788309756914774
+valid_acc_e: 0.8992740471869328, valid_acc_i: 0.8376753507014028, test_acc_e: 0.8921217547000895, test_acc_i: 0.8128128128128128
+jumping...
+
+RECUR EPOCH: 33, loss: 0.07760633376561174, train_acc_e: 0.9673704414587332, train_acc_i: 0.938427264539982 time: 4.715900520483653
+valid_acc_e: 0.8988203266787659, valid_acc_i: 0.844689378757515, test_acc_e: 0.8957027752909579, test_acc_i: 0.8238238238238238
+originial 0.8396793587174348
+saving... 0.844689378757515
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.633, ans_acc:0.647
+
+RECUR EPOCH: 34, loss: 0.07308388766258989, train_acc_e: 0.969268735103668, train_acc_i: 0.9401336682940703 time: 5.152169072628022
+valid_acc_e: 0.8974591651542649, valid_acc_i: 0.8406813627254509, test_acc_e: 0.8907788719785139, test_acc_i: 0.8078078078078078
+jumping...
+
+RECUR EPOCH: 35, loss: 0.06892546013081072, train_acc_e: 0.9707451857163949, train_acc_i: 0.9431672749680049 time: 4.800718291600545
+valid_acc_e: 0.9065335753176044, valid_acc_i: 0.8396793587174348, test_acc_e: 0.88272157564906, test_acc_i: 0.7977977977977978
+jumping...
+
+RECUR EPOCH: 36, loss: 0.07008246448138075, train_acc_e: 0.9710404758389404, train_acc_i: 0.94421007726217 time: 4.970818789800008
+valid_acc_e: 0.9024500907441017, valid_acc_i: 0.8386773547094188, test_acc_e: 0.8921217547000895, test_acc_i: 0.8118118118118118
+jumping...
+
+RECUR EPOCH: 37, loss: 0.07264178346547817, train_acc_e: 0.9714201345679273, train_acc_i: 0.9436412760108073 time: 5.105918602148692
+valid_acc_e: 0.9083484573502723, valid_acc_i: 0.8496993987975952, test_acc_e: 0.8952551477170994, test_acc_i: 0.8188188188188188
+originial 0.844689378757515
+saving... 0.8496993987975952
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.637, ans_acc:0.649
+
+RECUR EPOCH: 38, loss: 0.06893010343440294, train_acc_e: 0.9716099639324207, train_acc_i: 0.9447314784092525 time: 4.735945069789887
+valid_acc_e: 0.9051724137931034, valid_acc_i: 0.8396793587174348, test_acc_e: 0.8863025962399284, test_acc_i: 0.8108108108108109
+jumping...
+
+RECUR EPOCH: 39, loss: 0.0658102971556857, train_acc_e: 0.9732762439096412, train_acc_i: 0.9478124851874674 time: 5.081063334147135
+valid_acc_e: 0.8992740471869328, valid_acc_i: 0.8376753507014028, test_acc_e: 0.8979409131602507, test_acc_i: 0.8288288288288288
+jumping...
+
+RECUR EPOCH: 40, loss: 0.06273234382835562, train_acc_e: 0.974246482883719, train_acc_i: 0.9484286865431104 time: 4.768497701485952
+valid_acc_e: 0.9015426497277677, valid_acc_i: 0.8356713426853707, test_acc_e: 0.8912264995523724, test_acc_i: 0.8138138138138138
+jumping...
+
+RECUR EPOCH: 41, loss: 0.06866928287040805, train_acc_e: 0.9737402712450697, train_acc_i: 0.948570886855951 time: 4.8293875575065615
+valid_acc_e: 0.897912885662432, valid_acc_i: 0.8376753507014028, test_acc_e: 0.8907788719785139, test_acc_i: 0.8218218218218218
+jumping...
+
+RECUR EPOCH: 42, loss: 0.06517025649221965, train_acc_e: 0.9751323532513552, train_acc_i: 0.9507512916528417 time: 5.126390703519186
+valid_acc_e: 0.9015426497277677, valid_acc_i: 0.8326653306613226, test_acc_e: 0.8925693822739481, test_acc_i: 0.8138138138138138
+jumping...
+
+RECUR EPOCH: 43, loss: 0.06005987741960103, train_acc_e: 0.9751956297061863, train_acc_i: 0.9513200929042044 time: 4.681827835241953
+valid_acc_e: 0.9042649727767695, valid_acc_i: 0.845691382765531, test_acc_e: 0.891674127126231, test_acc_i: 0.8188188188188188
+jumping...
+
+RECUR EPOCH: 44, loss: 0.05995209543256924, train_acc_e: 0.9760815000738225, train_acc_i: 0.9519362942598474 time: 4.641242563724518
+valid_acc_e: 0.9088021778584392, valid_acc_i: 0.8406813627254509, test_acc_e: 0.8836168307967771, test_acc_i: 0.8048048048048048
+jumping...
+
+RECUR EPOCH: 45, loss: 0.05918226345501963, train_acc_e: 0.9758283942544979, train_acc_i: 0.9517940939470066 time: 5.003026008605957
+valid_acc_e: 0.9010889292196007, valid_acc_i: 0.8406813627254509, test_acc_e: 0.8943598925693823, test_acc_i: 0.8188188188188188
+jumping...
+
+RECUR EPOCH: 46, loss: 0.05724378072106714, train_acc_e: 0.9773470291704457, train_acc_i: 0.9553017016637436 time: 4.8470776915550235
+valid_acc_e: 0.9092558983666061, valid_acc_i: 0.8496993987975952, test_acc_e: 0.8871978513876455, test_acc_i: 0.8168168168168168
+originial 0.8496993987975952
+saving... 0.8496993987975952
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.643, ans_acc:0.663
+
+RECUR EPOCH: 47, loss: 0.05821805750270232, train_acc_e: 0.9763346058931471, train_acc_i: 0.9531686969711334 time: 4.660634116331736
+valid_acc_e: 0.9101633393829401, valid_acc_i: 0.8496993987975952, test_acc_e: 0.8970456580125336, test_acc_i: 0.8258258258258259
+originial 0.8496993987975952
+saving... 0.8496993987975952
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.651, ans_acc:0.664
+
+RECUR EPOCH: 48, loss: 0.06261543630751981, train_acc_e: 0.9776212271413807, train_acc_i: 0.9559653031236669 time: 4.646457131703695
+valid_acc_e: 0.9069872958257713, valid_acc_i: 0.842685370741483, test_acc_e: 0.9010743061772605, test_acc_i: 0.8278278278278278
+jumping...
+
+RECUR EPOCH: 49, loss: 0.05227498153236671, train_acc_e: 0.9793085992702115, train_acc_i: 0.9587619092762004 time: 5.093063000837962
+valid_acc_e: 0.897005444646098, valid_acc_i: 0.8366733466933868, test_acc_e: 0.8934646374216652, test_acc_i: 0.8308308308308309
+jumping...
+
+RECUR EPOCH: 50, loss: 0.054972770683314735, train_acc_e: 0.9784016367509649, train_acc_i: 0.956818505000711 time: 4.8361865997314455
+valid_acc_e: 0.9051724137931034, valid_acc_i: 0.843687374749499, test_acc_e: 0.8921217547000895, test_acc_i: 0.8238238238238238
+jumping...
+
+RECUR EPOCH: 51, loss: 0.05469521324084985, train_acc_e: 0.979498428634705, train_acc_i: 0.9596151111532445 time: 4.603523290157318
+valid_acc_e: 0.9097096188747731, valid_acc_i: 0.8466933867735471, test_acc_e: 0.8983885407341092, test_acc_i: 0.8388388388388388
+jumping...
+
+RECUR EPOCH: 52, loss: 0.05316183769975794, train_acc_e: 0.9798359030604712, train_acc_i: 0.9599469118832061 time: 4.569113707542419
+valid_acc_e: 0.9042649727767695, valid_acc_i: 0.8416833667334669, test_acc_e: 0.8907788719785139, test_acc_i: 0.8188188188188188
+jumping...
+
+RECUR EPOCH: 53, loss: 0.05144983656989237, train_acc_e: 0.9805108519120035, train_acc_i: 0.9609423140730909 time: 4.70503389040629
+valid_acc_e: 0.9060798548094374, valid_acc_i: 0.845691382765531, test_acc_e: 0.8930170098478066, test_acc_i: 0.8178178178178178
+jumping...
+
+RECUR EPOCH: 54, loss: 0.052926999059828485, train_acc_e: 0.9801311931830166, train_acc_i: 0.9598047115703655 time: 5.0395501812299095
+valid_acc_e: 0.9010889292196007, valid_acc_i: 0.8346693386773547, test_acc_e: 0.8889883616830797, test_acc_i: 0.8178178178178178
+jumping...
+
+RECUR EPOCH: 55, loss: 0.0541244142845904, train_acc_e: 0.9803632068507309, train_acc_i: 0.9605631132388491 time: 4.633671748638153
+valid_acc_e: 0.8988203266787659, valid_acc_i: 0.8396793587174348, test_acc_e: 0.8939122649955237, test_acc_i: 0.8218218218218218
+jumping...
+
+RECUR EPOCH: 56, loss: 0.04816658662059992, train_acc_e: 0.9809959713990424, train_acc_i: 0.962601317722899 time: 4.595001912117004
+valid_acc_e: 0.9024500907441017, valid_acc_i: 0.843687374749499, test_acc_e: 0.8889883616830797, test_acc_i: 0.8238238238238238
+jumping...
+
+RECUR EPOCH: 57, loss: 0.053447632385705116, train_acc_e: 0.9811647086119255, train_acc_i: 0.9615585154287339 time: 4.546067082881928
+valid_acc_e: 0.9024500907441017, valid_acc_i: 0.8356713426853707, test_acc_e: 0.8889883616830797, test_acc_i: 0.8198198198198198
+jumping...
+
+RECUR EPOCH: 58, loss: 0.05013867304888691, train_acc_e: 0.9826833435278732, train_acc_i: 0.9647817225197896 time: 4.916032636165619
+valid_acc_e: 0.912431941923775, valid_acc_i: 0.8557114228456913, test_acc_e: 0.8952551477170994, test_acc_i: 0.8318318318318318
+originial 0.8496993987975952
+saving... 0.8557114228456913
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.654, ans_acc:0.668
+
+RECUR EPOCH: 59, loss: 0.04823069799548994, train_acc_e: 0.9821560397376137, train_acc_i: 0.9644025216855477 time: 4.842484629154205
+valid_acc_e: 0.9092558983666061, valid_acc_i: 0.8517034068136272, test_acc_e: 0.8948075201432408, test_acc_i: 0.8288288288288288
+jumping...
+
+RECUR EPOCH: 60, loss: 0.04531891629078629, train_acc_e: 0.9827466199827044, train_acc_i: 0.9651609233540314 time: 4.575083263715109
+valid_acc_e: 0.9051724137931034, valid_acc_i: 0.8396793587174348, test_acc_e: 0.9010743061772605, test_acc_i: 0.8298298298298298
+jumping...
+
+RECUR EPOCH: 61, loss: 0.04722978743847067, train_acc_e: 0.9821771318892241, train_acc_i: 0.9635493198085036 time: 4.561429103215535
+valid_acc_e: 0.9056261343012704, valid_acc_i: 0.8396793587174348, test_acc_e: 0.9059982094897046, test_acc_i: 0.8398398398398398
+jumping...
+
+RECUR EPOCH: 62, loss: 0.045167917787892246, train_acc_e: 0.9825989749214318, train_acc_i: 0.9652083234583116 time: 4.9923195521036785
+valid_acc_e: 0.9010889292196007, valid_acc_i: 0.8356713426853707, test_acc_e: 0.8948075201432408, test_acc_i: 0.8238238238238238
+jumping...
+
+RECUR EPOCH: 63, loss: 0.04633538143523484, train_acc_e: 0.9835059374406783, train_acc_i: 0.9670569275252405 time: 4.643029236793518
+valid_acc_e: 0.9015426497277677, valid_acc_i: 0.8416833667334669, test_acc_e: 0.8970456580125336, test_acc_i: 0.8348348348348348
+jumping...
+
+RECUR EPOCH: 64, loss: 0.047879496411232944, train_acc_e: 0.983379384531016, train_acc_i: 0.966535526378158 time: 4.553962564468383
+valid_acc_e: 0.9092558983666061, valid_acc_i: 0.8486973947895792, test_acc_e: 0.8957027752909579, test_acc_i: 0.8308308308308309
+jumping...
+
+RECUR EPOCH: 65, loss: 0.044487572834789754, train_acc_e: 0.9846238214760288, train_acc_i: 0.9690951320092904 time: 4.750744513670603
+valid_acc_e: 0.9078947368421053, valid_acc_i: 0.842685370741483, test_acc_e: 0.896598030438675, test_acc_i: 0.8298298298298298
+jumping...
+
+RECUR EPOCH: 66, loss: 0.047121186383451294, train_acc_e: 0.9840543333825483, train_acc_i: 0.9680049296108452 time: 4.9930453419685366
+valid_acc_e: 0.9051724137931034, valid_acc_i: 0.8476953907815631, test_acc_e: 0.9064458370635631, test_acc_i: 0.8478478478478478
+jumping...
+
+RECUR EPOCH: 67, loss: 0.04508302228811832, train_acc_e: 0.9839066883212757, train_acc_i: 0.9674361283594823 time: 4.564356561501821
+valid_acc_e: 0.911070780399274, valid_acc_i: 0.8517034068136272, test_acc_e: 0.9037600716204118, test_acc_i: 0.8408408408408409
+jumping...
+
+RECUR EPOCH: 68, loss: 0.04130808443908337, train_acc_e: 0.9844339921115353, train_acc_i: 0.9682419301322462 time: 4.55961408217748
+valid_acc_e: 0.9192377495462795, valid_acc_i: 0.8587174348697395, test_acc_e: 0.9086839749328559, test_acc_i: 0.8468468468468469
+originial 0.8557114228456913
+saving... 0.8587174348697395
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.65, ans_acc:0.671
+
+RECUR EPOCH: 69, loss: 0.039982291754585404, train_acc_e: 0.9850878488114573, train_acc_i: 0.9696639332606531 time: 4.732871556282044
+valid_acc_e: 0.9083484573502723, valid_acc_i: 0.8486973947895792, test_acc_e: 0.8952551477170994, test_acc_i: 0.8278278278278278
+jumping...
+
+RECUR EPOCH: 70, loss: 0.04202754110361159, train_acc_e: 0.985404231085613, train_acc_i: 0.9699483338863345 time: 4.985261599222819
+valid_acc_e: 0.911524500907441, valid_acc_i: 0.8517034068136272, test_acc_e: 0.9037600716204118, test_acc_i: 0.8488488488488488
+jumping...
+
+RECUR EPOCH: 71, loss: 0.040179885720627445, train_acc_e: 0.9849823880534053, train_acc_i: 0.9692373323221312 time: 4.633691803614298
+valid_acc_e: 0.9174228675136116, valid_acc_i: 0.8577154308617234, test_acc_e: 0.8961504028648165, test_acc_i: 0.8328328328328328
+jumping...
+
+RECUR EPOCH: 72, loss: 0.04111183473393572, train_acc_e: 0.9854675075404442, train_acc_i: 0.9706119353462578 time: 4.55832455555598
+valid_acc_e: 0.9051724137931034, valid_acc_i: 0.8476953907815631, test_acc_e: 0.8983885407341092, test_acc_i: 0.8328328328328328
+jumping...
+
+RECUR EPOCH: 73, loss: 0.03724331804262312, train_acc_e: 0.9869017738499505, train_acc_i: 0.9729819405602692 time: 4.55005270242691
+valid_acc_e: 0.912431941923775, valid_acc_i: 0.8577154308617234, test_acc_e: 0.9019695613249776, test_acc_i: 0.8398398398398398
+jumping...
+
+RECUR EPOCH: 74, loss: 0.04210675676061887, train_acc_e: 0.9854885996920546, train_acc_i: 0.9700905341991752 time: 5.00208356777827
+valid_acc_e: 0.9092558983666061, valid_acc_i: 0.8466933867735471, test_acc_e: 0.9073410922112802, test_acc_i: 0.8488488488488488
+jumping...
+
+RECUR EPOCH: 75, loss: 0.04176473855951924, train_acc_e: 0.9852987703275611, train_acc_i: 0.9696639332606531 time: 4.679431784152984
+valid_acc_e: 0.9133393829401089, valid_acc_i: 0.8547094188376754, test_acc_e: 0.8925693822739481, test_acc_i: 0.8278278278278278
+jumping...
+
+RECUR EPOCH: 76, loss: 0.03579750157978847, train_acc_e: 0.986711944485457, train_acc_i: 0.972507939517467 time: 4.555768803755442
+valid_acc_e: 0.9078947368421053, valid_acc_i: 0.8486973947895792, test_acc_e: 0.8983885407341092, test_acc_i: 0.8288288288288288
+jumping...
+
+RECUR EPOCH: 77, loss: 0.03853685323314318, train_acc_e: 0.9872392482757166, train_acc_i: 0.9736929421244727 time: 4.161310601234436
+valid_acc_e: 0.9015426497277677, valid_acc_i: 0.844689378757515, test_acc_e: 0.8939122649955237, test_acc_i: 0.8288288288288288
+jumping...
+
+RECUR EPOCH: 78, loss: 0.040010327051222955, train_acc_e: 0.9868806816983401, train_acc_i: 0.9725553396217471 time: 4.1389583905537926
+valid_acc_e: 0.9101633393829401, valid_acc_i: 0.8547094188376754, test_acc_e: 0.9086839749328559, test_acc_i: 0.8458458458458459
+jumping...
+
+RECUR EPOCH: 79, loss: 0.04070986650520677, train_acc_e: 0.9861635485435869, train_acc_i: 0.9715125373275821 time: 4.134695978959401
+valid_acc_e: 0.9169691470054446, valid_acc_i: 0.8617234468937875, test_acc_e: 0.8992837958818263, test_acc_i: 0.8368368368368369
+originial 0.8587174348697395
+saving... 0.8617234468937875
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.654, ans_acc:0.666
+
+RECUR EPOCH: 80, loss: 0.03597121137925595, train_acc_e: 0.9869861424563919, train_acc_i: 0.9730293406645495 time: 4.124793076515198
+valid_acc_e: 0.9060798548094374, valid_acc_i: 0.845691382765531, test_acc_e: 0.905550581915846, test_acc_i: 0.8448448448448449
+jumping...
+
+RECUR EPOCH: 81, loss: 0.036401533680624786, train_acc_e: 0.9867330366370674, train_acc_i: 0.9734085414987913 time: 4.099729470411936
+valid_acc_e: 0.9128856624319419, valid_acc_i: 0.8517034068136272, test_acc_e: 0.9109221128021486, test_acc_i: 0.8508508508508509
+jumping...
+
+RECUR EPOCH: 82, loss: 0.03739482060073842, train_acc_e: 0.9882094872497944, train_acc_i: 0.9755415461914017 time: 3.974085474014282
+valid_acc_e: 0.9106170598911071, valid_acc_i: 0.8537074148296593, test_acc_e: 0.9001790510295434, test_acc_i: 0.8318318318318318
+jumping...
+
+RECUR EPOCH: 83, loss: 0.03400590663668646, train_acc_e: 0.9871970639724958, train_acc_i: 0.9739299426458738 time: 3.9808754205703734
+valid_acc_e: 0.9147005444646098, valid_acc_i: 0.8577154308617234, test_acc_e: 0.9010743061772605, test_acc_i: 0.8368368368368369
+jumping...
+
+RECUR EPOCH: 84, loss: 0.036957028596169804, train_acc_e: 0.9881462107949632, train_acc_i: 0.9753519457742807 time: 3.9935023466746014
+valid_acc_e: 0.9078947368421053, valid_acc_i: 0.8527054108216433, test_acc_e: 0.8992837958818263, test_acc_i: 0.8338338338338338
+jumping...
+
+RECUR EPOCH: 85, loss: 0.0340059472282209, train_acc_e: 0.9881462107949632, train_acc_i: 0.9751623453571597 time: 3.977273718516032
+valid_acc_e: 0.9060798548094374, valid_acc_i: 0.843687374749499, test_acc_e: 0.8943598925693823, test_acc_i: 0.8228228228228228
+jumping...
+
+RECUR EPOCH: 86, loss: 0.03507109340364211, train_acc_e: 0.9886524224336124, train_acc_i: 0.9759681471299236 time: 3.987193290392558
+valid_acc_e: 0.9133393829401089, valid_acc_i: 0.8567134268537074, test_acc_e: 0.9033124440465533, test_acc_i: 0.8338338338338338
+jumping...
+
+RECUR EPOCH: 87, loss: 0.03434592243448904, train_acc_e: 0.9886102381303917, train_acc_i: 0.9762525477556051 time: 3.983639129002889
+valid_acc_e: 0.9074410163339383, valid_acc_i: 0.845691382765531, test_acc_e: 0.8961504028648165, test_acc_i: 0.8328328328328328
+jumping...
+
+RECUR EPOCH: 88, loss: 0.033176914044035735, train_acc_e: 0.9885047773723398, train_acc_i: 0.9759207470256435 time: 3.985189155737559
+valid_acc_e: 0.9156079854809437, valid_acc_i: 0.8627254509018036, test_acc_e: 0.8970456580125336, test_acc_i: 0.8308308308308309
+originial 0.8617234468937875
+saving... 0.8627254509018036
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.658, ans_acc:0.675
+
+RECUR EPOCH: 89, loss: 0.03583350370964502, train_acc_e: 0.9876610913079243, train_acc_i: 0.9742617433758354 time: 3.994873277346293
+valid_acc_e: 0.9137931034482759, valid_acc_i: 0.8557114228456913, test_acc_e: 0.8970456580125336, test_acc_i: 0.8348348348348348
+jumping...
+
+RECUR EPOCH: 90, loss: 0.03753464698257689, train_acc_e: 0.9883993166142878, train_acc_i: 0.9757311466085226 time: 3.9987854321797687
+valid_acc_e: 0.9174228675136116, valid_acc_i: 0.8627254509018036, test_acc_e: 0.9028648164726947, test_acc_i: 0.8418418418418419
+originial 0.8627254509018036
+saving... 0.8627254509018036
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.653, ans_acc:0.67
+
+RECUR EPOCH: 91, loss: 0.03503276438337431, train_acc_e: 0.9886735145852228, train_acc_i: 0.9763473479641656 time: 3.999382126331329
+valid_acc_e: 0.911978221415608, valid_acc_i: 0.8537074148296593, test_acc_e: 0.9019695613249776, test_acc_i: 0.8328328328328328
+jumping...
+
+RECUR EPOCH: 92, loss: 0.03264991593215247, train_acc_e: 0.9880618421885217, train_acc_i: 0.9755889462956818 time: 3.9998609979947406
+valid_acc_e: 0.9106170598911071, valid_acc_i: 0.8486973947895792, test_acc_e: 0.9024171888988362, test_acc_i: 0.8378378378378378
+jumping...
+
+RECUR EPOCH: 93, loss: 0.030879237148954485, train_acc_e: 0.9891375419206513, train_acc_i: 0.9775323505711713 time: 3.999187119801839
+valid_acc_e: 0.9106170598911071, valid_acc_i: 0.8496993987975952, test_acc_e: 0.8988361683079678, test_acc_i: 0.8298298298298298
+jumping...
+
+RECUR EPOCH: 94, loss: 0.035122922926733274, train_acc_e: 0.9893062791335344, train_acc_i: 0.9774375503626108 time: 3.9876477479934693
+valid_acc_e: 0.9233212341197822, valid_acc_i: 0.8717434869739479, test_acc_e: 0.9051029543419875, test_acc_i: 0.8438438438438438
+originial 0.8627254509018036
+saving... 0.8717434869739479
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.648, ans_acc:0.665
+
+RECUR EPOCH: 95, loss: 0.034703278944707434, train_acc_e: 0.9893273712851448, train_acc_i: 0.9776271507797317 time: 4.025761338075002
+valid_acc_e: 0.9156079854809437, valid_acc_i: 0.8527054108216433, test_acc_e: 0.8988361683079678, test_acc_i: 0.8318318318318318
+jumping...
+
+RECUR EPOCH: 96, loss: 0.03285646810652701, train_acc_e: 0.9890320811625994, train_acc_i: 0.977058349528369 time: 4.009753982226054
+valid_acc_e: 0.9169691470054446, valid_acc_i: 0.8577154308617234, test_acc_e: 0.9024171888988362, test_acc_i: 0.8388388388388388
+jumping...
+
+RECUR EPOCH: 97, loss: 0.030990332540784513, train_acc_e: 0.9887156988884436, train_acc_i: 0.9763947480684457 time: 4.013028864065806
+valid_acc_e: 0.9165154264972777, valid_acc_i: 0.8577154308617234, test_acc_e: 0.909579230080573, test_acc_i: 0.8498498498498499
+jumping...
+
+RECUR EPOCH: 98, loss: 0.03216833707694979, train_acc_e: 0.9890742654658202, train_acc_i: 0.9774375503626108 time: 3.9983079632123313
+valid_acc_e: 0.9169691470054446, valid_acc_i: 0.8607214428857716, test_acc_e: 0.8925693822739481, test_acc_i: 0.8288288288288288
+jumping...
+
+RECUR EPOCH: 99, loss: 0.030930723168622155, train_acc_e: 0.989664845710911, train_acc_i: 0.9783381523439352 time: 4.0376956780751545
+valid_acc_e: 0.9010889292196007, valid_acc_i: 0.8336673346693386, test_acc_e: 0.9059982094897046, test_acc_i: 0.8358358358358359
+jumping...
+
+RECUR EPOCH: 100, loss: 0.03270460747565645, train_acc_e: 0.9890531733142098, train_acc_i: 0.9772005498412096 time: 4.02817637125651
+valid_acc_e: 0.9165154264972777, valid_acc_i: 0.8547094188376754, test_acc_e: 0.896598030438675, test_acc_i: 0.8298298298298298
+jumping...
+
+RECUR EPOCH: 101, loss: 0.03581519153784092, train_acc_e: 0.989285186981924, train_acc_i: 0.9776745508840119 time: 4.007194077968597
+valid_acc_e: 0.911524500907441, valid_acc_i: 0.8476953907815631, test_acc_e: 0.9037600716204118, test_acc_i: 0.8388388388388388
+jumping...
+
+RECUR EPOCH: 102, loss: 0.028847959328807415, train_acc_e: 0.9903397945624434, train_acc_i: 0.9800445560980234 time: 4.011653367678324
+valid_acc_e: 0.9088021778584392, valid_acc_i: 0.8547094188376754, test_acc_e: 0.9064458370635631, test_acc_i: 0.8418418418418419
+jumping...
+
+RECUR EPOCH: 103, loss: 0.03266329884149636, train_acc_e: 0.9900023201366771, train_acc_i: 0.9789543536995782 time: 4.020588012536367
+valid_acc_e: 0.9174228675136116, valid_acc_i: 0.8587174348697395, test_acc_e: 0.8988361683079678, test_acc_i: 0.8368368368368369
+jumping...
+
+RECUR EPOCH: 104, loss: 0.027983295724591472, train_acc_e: 0.9904452553204952, train_acc_i: 0.9798549556809025 time: 4.012933031717936
+valid_acc_e: 0.9097096188747731, valid_acc_i: 0.8577154308617234, test_acc_e: 0.8992837958818263, test_acc_i: 0.8318318318318318
+jumping...
+
+RECUR EPOCH: 105, loss: 0.027862193298976524, train_acc_e: 0.9910147434139757, train_acc_i: 0.9810399582879082 time: 4.046563816070557
+valid_acc_e: 0.911978221415608, valid_acc_i: 0.8607214428857716, test_acc_e: 0.8992837958818263, test_acc_i: 0.8308308308308309
+jumping...
+
+RECUR EPOCH: 106, loss: 0.030844027369995496, train_acc_e: 0.9904452553204952, train_acc_i: 0.9793809546381002 time: 4.035391489664714
+valid_acc_e: 0.9128856624319419, valid_acc_i: 0.8507014028056112, test_acc_e: 0.891674127126231, test_acc_i: 0.8248248248248248
+jumping...
+
+RECUR EPOCH: 107, loss: 0.03103147893578542, train_acc_e: 0.9905507160785472, train_acc_i: 0.9802341565151443 time: 4.017736200491587
+valid_acc_e: 0.9083484573502723, valid_acc_i: 0.8507014028056112, test_acc_e: 0.8997314234556849, test_acc_i: 0.8418418418418419
+jumping...
+
+RECUR EPOCH: 108, loss: 0.027165024893144547, train_acc_e: 0.9907616375946511, train_acc_i: 0.9806133573493861 time: 4.021801348527273
+valid_acc_e: 0.9106170598911071, valid_acc_i: 0.8507014028056112, test_acc_e: 0.9091316025067144, test_acc_i: 0.8498498498498499
+jumping...
+
+RECUR EPOCH: 109, loss: 0.028719558726768533, train_acc_e: 0.9907616375946511, train_acc_i: 0.9802815566194245 time: 4.028612577915192
+valid_acc_e: 0.9106170598911071, valid_acc_i: 0.8537074148296593, test_acc_e: 0.8992837958818263, test_acc_i: 0.8328328328328328
+jumping...
+
+RECUR EPOCH: 110, loss: 0.0260984019705253, train_acc_e: 0.9906983611398199, train_acc_i: 0.9802341565151443 time: 4.032794229189554
+valid_acc_e: 0.9097096188747731, valid_acc_i: 0.8537074148296593, test_acc_e: 0.905550581915846, test_acc_i: 0.8438438438438438
+jumping...
+
+RECUR EPOCH: 111, loss: 0.028145973619880693, train_acc_e: 0.991415494294573, train_acc_i: 0.9819405602692326 time: 4.058457402388255
+valid_acc_e: 0.9097096188747731, valid_acc_i: 0.8547094188376754, test_acc_e: 0.9010743061772605, test_acc_i: 0.8418418418418419
+jumping...
+
+RECUR EPOCH: 112, loss: 0.03176098605403555, train_acc_e: 0.9906561768365991, train_acc_i: 0.9804711570365455 time: 4.036583844820658
+valid_acc_e: 0.9183303085299456, valid_acc_i: 0.8657314629258517, test_acc_e: 0.9024171888988362, test_acc_i: 0.8398398398398398
+jumping...
+
+RECUR EPOCH: 113, loss: 0.031792893146935224, train_acc_e: 0.9913522178397418, train_acc_i: 0.9813717590178699 time: 4.032274222373962
+valid_acc_e: 0.9165154264972777, valid_acc_i: 0.8667334669338678, test_acc_e: 0.9064458370635631, test_acc_i: 0.8458458458458459
+jumping...
+
+RECUR EPOCH: 114, loss: 0.02735420609538173, train_acc_e: 0.9914576785977938, train_acc_i: 0.982224960894914 time: 4.05480629603068
+valid_acc_e: 0.9174228675136116, valid_acc_i: 0.8617234468937875, test_acc_e: 0.9042076991942704, test_acc_i: 0.8448448448448449
+jumping...
+
+RECUR EPOCH: 115, loss: 0.028853967990383176, train_acc_e: 0.9909092826559237, train_acc_i: 0.9816561596435512 time: 4.082643461227417
+valid_acc_e: 0.9065335753176044, valid_acc_i: 0.845691382765531, test_acc_e: 0.8988361683079678, test_acc_i: 0.8308308308308309
+jumping...
+
+RECUR EPOCH: 116, loss: 0.026419131578628578, train_acc_e: 0.9912045727784692, train_acc_i: 0.9815613594349908 time: 4.081953553358714
+valid_acc_e: 0.9083484573502723, valid_acc_i: 0.8466933867735471, test_acc_e: 0.8992837958818263, test_acc_i: 0.8398398398398398
+jumping...
+
+RECUR EPOCH: 117, loss: 0.0251135728227836, train_acc_e: 0.9917107844171184, train_acc_i: 0.9825567616248756 time: 4.079874340693156
+valid_acc_e: 0.9215063520871143, valid_acc_i: 0.8677354709418837, test_acc_e: 0.9064458370635631, test_acc_i: 0.8418418418418419
+jumping...
+
+RECUR EPOCH: 118, loss: 0.029154836161666062, train_acc_e: 0.9904452553204952, train_acc_i: 0.9804711570365455 time: 4.110613564650218
+valid_acc_e: 0.9165154264972777, valid_acc_i: 0.8597194388777555, test_acc_e: 0.9068934646374217, test_acc_i: 0.8458458458458459
+jumping...
+
+RECUR EPOCH: 119, loss: 0.026950409395366304, train_acc_e: 0.9916686001138976, train_acc_i: 0.9825093615205953 time: 4.116652683417002
+valid_acc_e: 0.911524500907441, valid_acc_i: 0.8466933867735471, test_acc_e: 0.9122649955237243, test_acc_i: 0.8538538538538538
+jumping...
+
+RECUR EPOCH: 120, loss: 0.02977570185342051, train_acc_e: 0.9909303748075341, train_acc_i: 0.9806607574536664 time: 4.108089220523834
+valid_acc_e: 0.9142468239564429, valid_acc_i: 0.8547094188376754, test_acc_e: 0.9033124440465533, test_acc_i: 0.8378378378378378
+jumping...
+
+RECUR EPOCH: 121, loss: 0.02773417221977374, train_acc_e: 0.9911623884752484, train_acc_i: 0.9814665592264303 time: 4.1097864786783855
+valid_acc_e: 0.9183303085299456, valid_acc_i: 0.8657314629258517, test_acc_e: 0.9015219337511191, test_acc_i: 0.8388388388388388
+jumping...
+
+RECUR EPOCH: 122, loss: 0.027666891484901358, train_acc_e: 0.9909936512623653, train_acc_i: 0.9808977579750675 time: 4.1037293116251625
+valid_acc_e: 0.911070780399274, valid_acc_i: 0.8557114228456913, test_acc_e: 0.9028648164726947, test_acc_i: 0.8378378378378378
+jumping...
+
+RECUR EPOCH: 123, loss: 0.02484714101378206, train_acc_e: 0.9913944021429626, train_acc_i: 0.9820827605820733 time: 4.129469998677572
+valid_acc_e: 0.9133393829401089, valid_acc_i: 0.8557114228456913, test_acc_e: 0.9059982094897046, test_acc_i: 0.8538538538538538
+jumping...
+
+RECUR EPOCH: 124, loss: 0.026057600669318923, train_acc_e: 0.9914787707494042, train_acc_i: 0.9819879603735128 time: 4.101564999421438
+valid_acc_e: 0.9060798548094374, valid_acc_i: 0.8466933867735471, test_acc_e: 0.9037600716204118, test_acc_i: 0.8408408408408409
+jumping...
+
+RECUR EPOCH: 125, loss: 0.028571614989016444, train_acc_e: 0.9905507160785472, train_acc_i: 0.9799971559937432 time: 4.140564636389414
+valid_acc_e: 0.9201451905626135, valid_acc_i: 0.8677354709418837, test_acc_e: 0.9015219337511191, test_acc_i: 0.8418418418418419
+jumping...
+
+RECUR EPOCH: 126, loss: 0.026239006875450135, train_acc_e: 0.9922591803589884, train_acc_i: 0.983694364127601 time: 4.142579913139343
+valid_acc_e: 0.9101633393829401, valid_acc_i: 0.8517034068136272, test_acc_e: 0.9015219337511191, test_acc_i: 0.8348348348348348
+jumping...
+
+RECUR EPOCH: 127, loss: 0.029911637584190312, train_acc_e: 0.9908038218978718, train_acc_i: 0.9804711570365455 time: 4.115458703041076
+valid_acc_e: 0.912431941923775, valid_acc_i: 0.8547094188376754, test_acc_e: 0.8979409131602507, test_acc_i: 0.8288288288288288
+jumping...
+
+RECUR EPOCH: 128, loss: 0.026503161430770895, train_acc_e: 0.9915209550526249, train_acc_i: 0.9822723609991942 time: 4.1698249260584515
+valid_acc_e: 0.9106170598911071, valid_acc_i: 0.8507014028056112, test_acc_e: 0.9042076991942704, test_acc_i: 0.8448448448448449
+jumping...
+
+RECUR EPOCH: 129, loss: 0.025665697241552345, train_acc_e: 0.9914365864461834, train_acc_i: 0.9819405602692326 time: 4.161438918113708
+valid_acc_e: 0.911524500907441, valid_acc_i: 0.8567134268537074, test_acc_e: 0.9024171888988362, test_acc_i: 0.8378378378378378
+jumping...
+
+RECUR EPOCH: 130, loss: 0.027270210995513505, train_acc_e: 0.991415494294573, train_acc_i: 0.9815613594349908 time: 4.108879534403483
+valid_acc_e: 0.9174228675136116, valid_acc_i: 0.8637274549098196, test_acc_e: 0.9077887197851388, test_acc_i: 0.8498498498498499
+jumping...
+
+RECUR EPOCH: 131, loss: 0.024097099664023566, train_acc_e: 0.9921748117525468, train_acc_i: 0.9832203630847988 time: 4.206499679883321
+valid_acc_e: 0.9160617059891107, valid_acc_i: 0.8587174348697395, test_acc_e: 0.9033124440465533, test_acc_i: 0.8338338338338338
+jumping...
+
+RECUR EPOCH: 132, loss: 0.025762115873908892, train_acc_e: 0.9915842315074561, train_acc_i: 0.9826989619377162 time: 4.121757960319519
+valid_acc_e: 0.9147005444646098, valid_acc_i: 0.8597194388777555, test_acc_e: 0.9082363473589973, test_acc_i: 0.8448448448448449
+jumping...
+
+RECUR EPOCH: 133, loss: 0.02428568151971544, train_acc_e: 0.9924911940267027, train_acc_i: 0.9843579655875243 time: 4.156759524345398
+valid_acc_e: 0.9128856624319419, valid_acc_i: 0.8567134268537074, test_acc_e: 0.9046553267681289, test_acc_i: 0.8488488488488488
+jumping...
+
+RECUR EPOCH: 134, loss: 0.0263894011232493, train_acc_e: 0.9922802725105988, train_acc_i: 0.9836469640233209 time: 4.1579593022664385
+valid_acc_e: 0.912431941923775, valid_acc_i: 0.8567134268537074, test_acc_e: 0.9059982094897046, test_acc_i: 0.8418418418418419
+jumping...
+
+RECUR EPOCH: 135, loss: 0.02531159801176066, train_acc_e: 0.9924490097234819, train_acc_i: 0.983883964544722 time: 4.131750786304474
+valid_acc_e: 0.9156079854809437, valid_acc_i: 0.8627254509018036, test_acc_e: 0.9064458370635631, test_acc_i: 0.8348348348348348
+jumping...
+
+RECUR EPOCH: 136, loss: 0.02471687655597559, train_acc_e: 0.9928708527556896, train_acc_i: 0.9848793667346069 time: 4.187808529535929
+valid_acc_e: 0.911978221415608, valid_acc_i: 0.8466933867735471, test_acc_e: 0.9059982094897046, test_acc_i: 0.8388388388388388
+jumping...
+
+RECUR EPOCH: 137, loss: 0.021579727376088126, train_acc_e: 0.9927864841492481, train_acc_i: 0.9845475660046452 time: 4.137918583552042
+valid_acc_e: 0.9165154264972777, valid_acc_i: 0.8647294589178357, test_acc_e: 0.9010743061772605, test_acc_i: 0.8318318318318318
+jumping...
+
+RECUR EPOCH: 138, loss: 0.026860616474683716, train_acc_e: 0.9924490097234819, train_acc_i: 0.9845001659003649 time: 4.2119367281595865
+valid_acc_e: 0.9174228675136116, valid_acc_i: 0.8607214428857716, test_acc_e: 0.9104744852282901, test_acc_i: 0.8488488488488488
+jumping...
+
+RECUR EPOCH: 139, loss: 0.021998053417927328, train_acc_e: 0.9930606821201831, train_acc_i: 0.9852111674645684 time: 4.111837156613668
+valid_acc_e: 0.9192377495462795, valid_acc_i: 0.8647294589178357, test_acc_e: 0.9082363473589973, test_acc_i: 0.8468468468468469
+jumping...
+
+RECUR EPOCH: 140, loss: 0.024521946688173958, train_acc_e: 0.992238088207378, train_acc_i: 0.9837891643361616 time: 4.161007432142894
+valid_acc_e: 0.9151542649727767, valid_acc_i: 0.8537074148296593, test_acc_e: 0.9118173679498657, test_acc_i: 0.8518518518518519
+jumping...
+
+RECUR EPOCH: 141, loss: 0.02447394377789478, train_acc_e: 0.9930817742717934, train_acc_i: 0.9852585675688487 time: 4.275514574845632
+valid_acc_e: 0.9192377495462795, valid_acc_i: 0.8657314629258517, test_acc_e: 0.9100268576544315, test_acc_i: 0.8518518518518519
+jumping...
+
+RECUR EPOCH: 142, loss: 0.02331989413330435, train_acc_e: 0.9931239585750142, train_acc_i: 0.9849741669431673 time: 4.260265382130941
+valid_acc_e: 0.9128856624319419, valid_acc_i: 0.8507014028056112, test_acc_e: 0.9046553267681289, test_acc_i: 0.8458458458458459
+jumping...
+
+RECUR EPOCH: 143, loss: 0.020429096007836708, train_acc_e: 0.9931028664234038, train_acc_i: 0.9852585675688487 time: 4.310988334814708
+valid_acc_e: 0.9065335753176044, valid_acc_i: 0.842685370741483, test_acc_e: 0.9059982094897046, test_acc_i: 0.8418418418418419
+jumping...
+
+RECUR EPOCH: 144, loss: 0.022867430967960407, train_acc_e: 0.9935879859104427, train_acc_i: 0.9863961700715742 time: 4.265101969242096
+valid_acc_e: 0.9165154264972777, valid_acc_i: 0.8567134268537074, test_acc_e: 0.9127126230975828, test_acc_i: 0.8528528528528528
+jumping...
+
+RECUR EPOCH: 145, loss: 0.02238101055892844, train_acc_e: 0.9930606821201831, train_acc_i: 0.9853059676731288 time: 4.270263874530793
+valid_acc_e: 0.9215063520871143, valid_acc_i: 0.8657314629258517, test_acc_e: 0.905550581915846, test_acc_i: 0.8418418418418419
+jumping...
+
+RECUR EPOCH: 146, loss: 0.024934589930252046, train_acc_e: 0.9926599312395857, train_acc_i: 0.9843579655875243 time: 4.203618733088176
+valid_acc_e: 0.9210526315789473, valid_acc_i: 0.8637274549098196, test_acc_e: 0.9059982094897046, test_acc_i: 0.8388388388388388
+jumping...
+
+RECUR EPOCH: 147, loss: 0.020476498598534173, train_acc_e: 0.9932294193330662, train_acc_i: 0.9856377684030905 time: 4.1474900364875795
+valid_acc_e: 0.9169691470054446, valid_acc_i: 0.8587174348697395, test_acc_e: 0.9086839749328559, test_acc_i: 0.8498498498498499
+jumping...
+
+RECUR EPOCH: 148, loss: 0.02317642433185049, train_acc_e: 0.9928075763008585, train_acc_i: 0.9844053656918045 time: 4.1711694637934364
+valid_acc_e: 0.9224137931034483, valid_acc_i: 0.8677354709418837, test_acc_e: 0.9051029543419875, test_acc_i: 0.8438438438438438
+jumping...
+
+RECUR EPOCH: 149, loss: 0.025300909165330693, train_acc_e: 0.9927442998460273, train_acc_i: 0.9846423662132057 time: 4.210843185583751
+valid_acc_e: 0.9165154264972777, valid_acc_i: 0.8597194388777555, test_acc_e: 0.9046553267681289, test_acc_i: 0.8448448448448449
+jumping...
+
+RECUR EPOCH: 150, loss: 0.02285659583400184, train_acc_e: 0.9933559722427285, train_acc_i: 0.9856851685073708 time: 4.263982597986857
+valid_acc_e: 0.9160617059891107, valid_acc_i: 0.8617234468937875, test_acc_e: 0.9024171888988362, test_acc_i: 0.8378378378378378
+jumping...
+
+RECUR EPOCH: 151, loss: 0.023385123480348487, train_acc_e: 0.9931239585750142, train_acc_i: 0.9851637673602882 time: 4.245484415690104
+valid_acc_e: 0.9201451905626135, valid_acc_i: 0.8597194388777555, test_acc_e: 0.9028648164726947, test_acc_i: 0.8368368368368369
+jumping...
+
+RECUR EPOCH: 152, loss: 0.02328563466047318, train_acc_e: 0.9930184978169623, train_acc_i: 0.9853533677774091 time: 4.317174943288167
+valid_acc_e: 0.9178765880217786, valid_acc_i: 0.8577154308617234, test_acc_e: 0.9122649955237243, test_acc_i: 0.8458458458458459
+jumping...
+
+RECUR EPOCH: 153, loss: 0.02088925562514661, train_acc_e: 0.993271603636287, train_acc_i: 0.98554296819453 time: 4.318324466546376
+valid_acc_e: 0.9151542649727767, valid_acc_i: 0.8597194388777555, test_acc_e: 0.9104744852282901, test_acc_i: 0.8548548548548549
+jumping...
+
+RECUR EPOCH: 154, loss: 0.02400426006971694, train_acc_e: 0.9927864841492481, train_acc_i: 0.9844053656918045 time: 4.293295808633169
+valid_acc_e: 0.9287658802177858, valid_acc_i: 0.8817635270541082, test_acc_e: 0.9068934646374217, test_acc_i: 0.8438438438438438
+originial 0.8717434869739479
+saving... 0.8817635270541082
+saveing ok!
+error num len ['temp_5', 'temp_0', 'temp_1', '^', '^'] ['10', '5', '27', '351']
+error num len ['temp_1', 'temp_2', '^', 'temp_3', '^', 'temp_4', 'temp_5', '^', '^', 'temp_6', 'temp_5', '^'] ['2', '40', '21', '82', '19', '87']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', '^', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', 'temp_7', '^', 'temp_8', '^', 'temp_9', '^', 'temp_10', '^', 'temp_11'] ['101', '103', '107', '109', '113', '127', '131', '137', '139', '149', '1030']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', 'temp_3', '^', '^', 'temp_4', 'temp_5', '^', '^', 'temp_1', 'temp_2', '^', '^'] ['100', '99', '0', '4', '25']
+error num len ['temp_3', 'temp_4', '^', 'temp_4', '^', '1', 'temp_6', '^', '^'] ['2001', '7', '13', '2008', '105', '56']
+error num len ['temp_3', 'temp_3', 'temp_5', '^', 'temp_4', '^', '^'] ['2012', '3', '1', '20000', '0.035']
+error num len ['temp_0', 'temp_1', '^', 'temp_2', '^', 'temp_3', 'temp_4', '^', 'temp_5', '^', 'temp_6', '^', '^', 'temp_7', '^'] ['2', '4', '8', '16', '25', '6.25', '1.25']
+final test temp_acc:0.657, ans_acc:0.673
+
+RECUR EPOCH: 155, loss: 0.02476274339910773, train_acc_e: 0.9923013646622092, train_acc_i: 0.9834573636062 time: 4.219505393505097
+valid_acc_e: 0.9237749546279492, valid_acc_i: 0.8667334669338678, test_acc_e: 0.9109221128021486, test_acc_i: 0.8478478478478478
+jumping...
+
+RECUR EPOCH: 156, loss: 0.019933997774385724, train_acc_e: 0.9933981565459492, train_acc_i: 0.9861117694458927 time: 4.17827848593394
+valid_acc_e: 0.9174228675136116, valid_acc_i: 0.8587174348697395, test_acc_e: 0.9073410922112802, test_acc_i: 0.8468468468468469
+jumping...
+
+RECUR EPOCH: 157, loss: 0.019836277903672078, train_acc_e: 0.9937145388201051, train_acc_i: 0.9863487699672939 time: 4.28238883415858
+valid_acc_e: 0.9097096188747731, valid_acc_i: 0.8547094188376754, test_acc_e: 0.9077887197851388, test_acc_i: 0.8398398398398398
+jumping...
+
+RECUR EPOCH: 158, loss: 0.020199629529710827, train_acc_e: 0.9935668937588323, train_acc_i: 0.9862539697587335 time: 4.309582642714182
+valid_acc_e: 0.9215063520871143, valid_acc_i: 0.8637274549098196, test_acc_e: 0.9100268576544315, test_acc_i: 0.8428428428428428
+jumping...
+
+RECUR EPOCH: 159, loss: 0.019617014162309647, train_acc_e: 0.9937567231233259, train_acc_i: 0.9867279708015357 time: 4.331128017107646
+valid_acc_e: 0.9183303085299456, valid_acc_i: 0.8597194388777555, test_acc_e: 0.9068934646374217, test_acc_i: 0.8448448448448449
+jumping...
+
+RECUR EPOCH: 160, loss: 0.019824825898602093, train_acc_e: 0.9933348800911181, train_acc_i: 0.9856377684030905 time: 4.2730689962704975
+valid_acc_e: 0.9133393829401089, valid_acc_i: 0.8577154308617234, test_acc_e: 0.9037600716204118, test_acc_i: 0.8448448448448449
+jumping...
+
+RECUR EPOCH: 161, loss: 0.02066837286197677, train_acc_e: 0.993271603636287, train_acc_i: 0.9856851685073708 time: 4.386304155985514
+valid_acc_e: 0.9147005444646098, valid_acc_i: 0.8577154308617234, test_acc_e: 0.9140555058191585, test_acc_i: 0.8568568568568569
+jumping...
+
+RECUR EPOCH: 162, loss: 0.019891024543771528, train_acc_e: 0.9938410917297673, train_acc_i: 0.9865857704886951 time: 4.26068282922109
+valid_acc_e: 0.9165154264972777, valid_acc_i: 0.8607214428857716, test_acc_e: 0.9104744852282901, test_acc_i: 0.8498498498498499
+jumping...
+
+RECUR EPOCH: 163, loss: 0.019520672082447062, train_acc_e: 0.9936934466684947, train_acc_i: 0.9865383703844148 time: 4.3206883549690245
+valid_acc_e: 0.911978221415608, valid_acc_i: 0.8507014028056112, test_acc_e: 0.9051029543419875, test_acc_i: 0.8438438438438438
+jumping...
+
+RECUR EPOCH: 164, loss: 0.02208305826837505, train_acc_e: 0.9935668937588323, train_acc_i: 0.9859221690287718 time: 4.2250095963478085
+valid_acc_e: 0.9069872958257713, valid_acc_i: 0.8496993987975952, test_acc_e: 0.9100268576544315, test_acc_i: 0.8528528528528528
+jumping...
+
+RECUR EPOCH: 165, loss: 0.021253113181370884, train_acc_e: 0.9936723545168843, train_acc_i: 0.9865383703844148 time: 4.3168878634770715
+valid_acc_e: 0.9174228675136116, valid_acc_i: 0.8617234468937875, test_acc_e: 0.9100268576544315, test_acc_i: 0.8498498498498499
+jumping...
+
+RECUR EPOCH: 166, loss: 0.019332355088747276, train_acc_e: 0.994199658307144, train_acc_i: 0.9877707730957008 time: 4.3765337030092875
+valid_acc_e: 0.9074410163339383, valid_acc_i: 0.842685370741483, test_acc_e: 0.9068934646374217, test_acc_i: 0.8498498498498499
+jumping...
+
+RECUR EPOCH: 167, loss: 0.01993818057782246, train_acc_e: 0.9940520132458712, train_acc_i: 0.9872493719486183 time: 4.497140125433604
+valid_acc_e: 0.912431941923775, valid_acc_i: 0.8577154308617234, test_acc_e: 0.9100268576544315, test_acc_i: 0.8428428428428428
+jumping...
+
+RECUR EPOCH: 168, loss: 0.023768154954511695, train_acc_e: 0.9935247094556116, train_acc_i: 0.9862539697587335 time: 4.501684256394705
+valid_acc_e: 0.9183303085299456, valid_acc_i: 0.8647294589178357, test_acc_e: 0.909579230080573, test_acc_i: 0.8468468468468469
+jumping...
+
+RECUR EPOCH: 169, loss: 0.019690076932287828, train_acc_e: 0.9940098289426504, train_acc_i: 0.9870597715314974 time: 4.524551407496134
+valid_acc_e: 0.9156079854809437, valid_acc_i: 0.8557114228456913, test_acc_e: 0.9118173679498657, test_acc_i: 0.8528528528528528
+jumping...
+
+RECUR EPOCH: 170, loss: 0.02307684291251364, train_acc_e: 0.9937145388201051, train_acc_i: 0.9866331705929753 time: 4.422774430116018
+valid_acc_e: 0.9201451905626135, valid_acc_i: 0.8717434869739479, test_acc_e: 0.9042076991942704, test_acc_i: 0.8408408408408409
+jumping...
+
+RECUR EPOCH: 171, loss: 0.019163564317877687, train_acc_e: 0.9939676446394297, train_acc_i: 0.9870597715314974 time: 4.329826720555624
+valid_acc_e: 0.9210526315789473, valid_acc_i: 0.8647294589178357, test_acc_e: 0.9109221128021486, test_acc_i: 0.8548548548548549
+jumping...
+
+RECUR EPOCH: 172, loss: 0.01834434092483381, train_acc_e: 0.9946004091877413, train_acc_i: 0.9886713750770252 time: 4.387465496857961
+valid_acc_e: 0.9142468239564429, valid_acc_i: 0.8527054108216433, test_acc_e: 0.9127126230975828, test_acc_i: 0.8568568568568569
+jumping...
+
+RECUR EPOCH: 173, loss: 0.018942713768541796, train_acc_e: 0.994094197549092, train_acc_i: 0.9871545717400578 time: 4.99003103574117
+valid_acc_e: 0.9205989110707804, valid_acc_i: 0.8707414829659319, test_acc_e: 0.9109221128021486, test_acc_i: 0.8468468468468469
+jumping...
+
+RECUR EPOCH: 174, loss: 0.019262001697124248, train_acc_e: 0.9940098289426504, train_acc_i: 0.9872493719486183 time: 5.240866577625274
+valid_acc_e: 0.9160617059891107, valid_acc_i: 0.8607214428857716, test_acc_e: 0.9046553267681289, test_acc_i: 0.8418418418418419
+jumping...
+
+RECUR EPOCH: 175, loss: 0.019693864936699577, train_acc_e: 0.9939254603362089, train_acc_i: 0.9869175712186566 time: 5.294811244805654
+valid_acc_e: 0.9260435571687841, valid_acc_i: 0.8697394789579158, test_acc_e: 0.9082363473589973, test_acc_i: 0.8518518518518519
+jumping...
+
+RECUR EPOCH: 176, loss: 0.015725652539726184, train_acc_e: 0.9945371327329101, train_acc_i: 0.9881499739299426 time: 5.3158832828203835
+valid_acc_e: 0.9233212341197822, valid_acc_i: 0.8697394789579158, test_acc_e: 0.9082363473589973, test_acc_i: 0.8448448448448449
+jumping...
+
+RECUR EPOCH: 177, loss: 0.01725898252567849, train_acc_e: 0.9944738562780789, train_acc_i: 0.9880077736171019 time: 5.342244021097819
+valid_acc_e: 0.9183303085299456, valid_acc_i: 0.8697394789579158, test_acc_e: 0.9171888988361683, test_acc_i: 0.8578578578578578
+jumping...
+
+RECUR EPOCH: 178, loss: 0.0214871424878509, train_acc_e: 0.9940520132458712, train_acc_i: 0.9875811726785799 time: 6.381810359160105
+valid_acc_e: 0.9156079854809437, valid_acc_i: 0.8617234468937875, test_acc_e: 0.9051029543419875, test_acc_i: 0.8438438438438438
+jumping...
+
+RECUR EPOCH: 179, loss: 0.01901083429360129, train_acc_e: 0.994094197549092, train_acc_i: 0.9872967720528986 time: 5.22198334534963
+valid_acc_e: 0.9233212341197822, valid_acc_i: 0.8777555110220441, test_acc_e: 0.9073410922112802, test_acc_i: 0.8498498498498499
+jumping...
+
+RECUR EPOCH: 180, loss: 0.016691980828552805, train_acc_e: 0.9945160405812997, train_acc_i: 0.9882447741385031 time: 5.462065223852793
+valid_acc_e: 0.9274047186932849, valid_acc_i: 0.872745490981964, test_acc_e: 0.9100268576544315, test_acc_i: 0.8518518518518519
+jumping...
+
+RECUR EPOCH: 181, loss: 0.02000893299756568, train_acc_e: 0.9941785661555336, train_acc_i: 0.9877233729914205 time: 5.416088442007701
+valid_acc_e: 0.9292196007259528, valid_acc_i: 0.874749498997996, test_acc_e: 0.9091316025067144, test_acc_i: 0.8498498498498499
+jumping...
+
+RECUR EPOCH: 182, loss: 0.01723282259584141, train_acc_e: 0.9948324228554555, train_acc_i: 0.9889557757027065 time: 5.402241333325704
+valid_acc_e: 0.9228675136116152, valid_acc_i: 0.874749498997996, test_acc_e: 0.9109221128021486, test_acc_i: 0.8578578578578578
+jumping...
+
+RECUR EPOCH: 183, loss: 0.017316172339799412, train_acc_e: 0.9945582248845205, train_acc_i: 0.9882921742427834 time: 5.2066825985908505
+valid_acc_e: 0.9205989110707804, valid_acc_i: 0.8667334669338678, test_acc_e: 0.9100268576544315, test_acc_i: 0.8548548548548549
+jumping...
+
+RECUR EPOCH: 184, loss: 0.021310181326424194, train_acc_e: 0.9941785661555336, train_acc_i: 0.987391572261459 time: 6.3480274478594465
+valid_acc_e: 0.9160617059891107, valid_acc_i: 0.8567134268537074, test_acc_e: 0.9015219337511191, test_acc_i: 0.8408408408408409
+jumping...
+
+RECUR EPOCH: 185, loss: 0.01785371148999276, train_acc_e: 0.9947480542490139, train_acc_i: 0.9888135753898658 time: 5.459362554550171
+valid_acc_e: 0.9192377495462795, valid_acc_i: 0.8697394789579158, test_acc_e: 0.9091316025067144, test_acc_i: 0.8448448448448449
+jumping...
+
+RECUR EPOCH: 186, loss: 0.016445804642035013, train_acc_e: 0.994094197549092, train_acc_i: 0.9877233729914205 time: 5.748378813266754
+valid_acc_e: 0.9246823956442831, valid_acc_i: 0.8767535070140281, test_acc_e: 0.905550581915846, test_acc_i: 0.8458458458458459
+jumping...
+
+RECUR EPOCH: 187, loss: 0.019436200825927327, train_acc_e: 0.994094197549092, train_acc_i: 0.9873441721571787 time: 5.606331400076548
+valid_acc_e: 0.9196914700544465, valid_acc_i: 0.8627254509018036, test_acc_e: 0.914503133393017, test_acc_i: 0.8618618618618619
+jumping...
+
+RECUR EPOCH: 188, loss: 0.020012196682139032, train_acc_e: 0.9944527641264685, train_acc_i: 0.9881025738256625 time: 5.849501423041025
+valid_acc_e: 0.9165154264972777, valid_acc_i: 0.8647294589178357, test_acc_e: 0.9104744852282901, test_acc_i: 0.8548548548548549
+jumping...
+
+RECUR EPOCH: 189, loss: 0.01591652648605914, train_acc_e: 0.9950011600683386, train_acc_i: 0.9892401763283879 time: 6.280346643924713
+valid_acc_e: 0.9183303085299456, valid_acc_i: 0.8657314629258517, test_acc_e: 0.9104744852282901, test_acc_i: 0.8548548548548549
+jumping...
+
+RECUR EPOCH: 190, loss: 0.014199234322071853, train_acc_e: 0.9954651874037671, train_acc_i: 0.990282978622553 time: 5.85657350619634
+valid_acc_e: 0.9196914700544465, valid_acc_i: 0.8707414829659319, test_acc_e: 0.9082363473589973, test_acc_i: 0.8458458458458459
+jumping...
+
+RECUR EPOCH: 191, loss: 0.019170805003710656, train_acc_e: 0.9943894876716374, train_acc_i: 0.9880077736171019 time: 5.244589988390604
+valid_acc_e: 0.9169691470054446, valid_acc_i: 0.8677354709418837, test_acc_e: 0.9059982094897046, test_acc_i: 0.8458458458458459
+jumping...
+
+RECUR EPOCH: 192, loss: 0.019168025021086166, train_acc_e: 0.9945582248845205, train_acc_i: 0.9883395743470635 time: 5.854713185628255
+valid_acc_e: 0.9174228675136116, valid_acc_i: 0.8597194388777555, test_acc_e: 0.9024171888988362, test_acc_i: 0.8408408408408409
+jumping...
+
+RECUR EPOCH: 193, loss: 0.01968046449472293, train_acc_e: 0.9946425934909621, train_acc_i: 0.9884817746599043 time: 5.562428498268128
+valid_acc_e: 0.9224137931034483, valid_acc_i: 0.872745490981964, test_acc_e: 0.9077887197851388, test_acc_i: 0.8518518518518519
+jumping...
+
+RECUR EPOCH: 194, loss: 0.01864774793596348, train_acc_e: 0.9943894876716374, train_acc_i: 0.9878655733042613 time: 5.609100592136383
+valid_acc_e: 0.9137931034482759, valid_acc_i: 0.8627254509018036, test_acc_e: 0.9077887197851388, test_acc_i: 0.8548548548548549
+jumping...
+
+RECUR EPOCH: 195, loss: 0.017589938278412338, train_acc_e: 0.9942207504587542, train_acc_i: 0.9875337725742996 time: 6.475804408391316
+valid_acc_e: 0.9183303085299456, valid_acc_i: 0.8647294589178357, test_acc_e: 0.9037600716204118, test_acc_i: 0.8448448448448449
+jumping...
+
+RECUR EPOCH: 196, loss: 0.014806196313554575, train_acc_e: 0.9950855286747801, train_acc_i: 0.9894297767455088 time: 5.750006254514059
+valid_acc_e: 0.9196914700544465, valid_acc_i: 0.8637274549098196, test_acc_e: 0.9073410922112802, test_acc_i: 0.8468468468468469
+jumping...
+
+RECUR EPOCH: 197, loss: 0.01700524240071143, train_acc_e: 0.9943473033684166, train_acc_i: 0.9881025738256625 time: 5.664584294954936
+valid_acc_e: 0.9165154264972777, valid_acc_i: 0.8567134268537074, test_acc_e: 0.9068934646374217, test_acc_i: 0.8528528528528528
+jumping...
+
+RECUR EPOCH: 198, loss: 0.013887555146035105, train_acc_e: 0.9951066208263905, train_acc_i: 0.9896193771626297 time: 5.8141801118850704
+valid_acc_e: 0.9228675136116152, valid_acc_i: 0.872745490981964, test_acc_e: 0.9082363473589973, test_acc_i: 0.8508508508508509
+jumping...
+
+RECUR EPOCH: 199, loss: 0.016674221889259655, train_acc_e: 0.9952120815844424, train_acc_i: 0.9895719770583495 time: 5.92234917084376
+valid_acc_e: 0.9169691470054446, valid_acc_i: 0.8647294589178357, test_acc_e: 0.9033124440465533, test_acc_i: 0.8408408408408409
+jumping...
+
+RECUR EPOCH: 200, loss: 0.019739551909207047, train_acc_e: 0.9945160405812997, train_acc_i: 0.9883395743470635 time: 6.5625745018323265
+valid_acc_e: 0.911524500907441, valid_acc_i: 0.8557114228456913, test_acc_e: 0.9086839749328559, test_acc_i: 0.8448448448448449
+jumping...
+
+Fri Nov 29 14:22:35 EST 2019
+
+-----------------------
+Resources requested:
+nodes=1
+mem=24000mb
+-----------------------
+Resources used:
+cput=15:50:25
+walltime=15:51:06
+mem=23.581GB
+vmem=25.325GB
+-----------------------
+Resource units charged (estimate):
+9.511 RUs
+-----------------------
