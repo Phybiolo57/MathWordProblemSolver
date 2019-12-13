@@ -1,0 +1,73 @@
+{
+  "1": {
+    "template_text": "what is the sum of  temp_0  and  temp_0  ?",
+    "expression": "x=1+1",
+    "mid_template": [
+      "x",
+      "=",
+      "temp_0",
+      "+",
+      "temp_0"
+    ],
+    "num_list": [
+      "1"
+    ],
+    "index": "1",
+    "numtemp_order": [
+      "temp_0",
+      "temp_0"
+    ],
+    "post_template": [
+      "temp_0",
+      "temp_0",
+      "+"
+    ],
+    "ans": "2",
+    "text": "what is the sum of  1  and  1  ?",
+    "num_position": [
+      5
+    ]
+  },
+  "65": {
+    "template_text": "how many  temp_0  digit numbers can you make using the digits  temp_1  ,  temp_2  ,  temp_0  , and  temp_3  if the hundreds digit is prime and repetition of a digit is not permitted ?",
+    "expression": "n=2*3*2",
+    "mid_template": [
+      "n",
+      "=",
+      "temp_2",
+      "*",
+      "temp_0",
+      "*",
+      "temp_2"
+    ],
+    "num_list": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "index": "65",
+    "numtemp_order": [
+      "temp_0",
+      "temp_1",
+      "temp_2",
+      "temp_0",
+      "temp_3"
+    ],
+    "post_template": [
+      "temp_2",
+      "temp_0",
+      "*",
+      "temp_2",
+      "*"
+    ],
+    "ans": "12",
+    "text": "how many  3  digit numbers can you make using the digits  1  ,  2  ,  3  , and  4  if the hundreds digit is prime and repetition of a digit is not permitted ?",
+    "num_position": [
+      2,
+      11,
+      13,
+      18
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+text,ans,equations,unknowns
+a number subtracted from 17 gives the quotient of 48 and -8. find the number.,23,17 - x =48 / -8,x
+what is the sum of 1 and 1?,2,x = 1 + 1,x
+which value is a solution to 60+2x=12x+10?,5,60+2*x=12*x+10,x
+"phil found that the sum of twice a number and -21 is 129 greater than the opposite of the number, what is the number?",50,(2*n + (-21)) = 129 + (-1 * n),n
+forty-two more than a number divided by four is equal to fifty-two more than the same number divided by fourteen. what is the number?,56,42 + n / 4 = 52 + n / 14,n
+"a number when multiplied by 7/18 instead of 7/8 and got the result 770 less than the actual result , find the original number?",1584,7/18*n = 7/8 * n - 770,n
+"if one- third of a number is subtracted from three-fourths of that number, the difference is 15. what is the number?",36,3/4*n - 1/3*n = 15,n
+one third of a number is 5 less than half of the same number. what is the number?,30,1/3 * n = 1/2 * n - 5,n
+3 times a number is 7 more than twice the number? what is the number?,7,3*n = 7 + 2*n,n
+four times a number is 36 greater than the product of the number and -2. what is the number?,6,4*n = 36 + (-2)*n,n
+five times a number subtracted from seven times the number is a result of 18?,9,7*n - 5*n = 18,n
+"six times a number equals 3 times the number , increased by 24. find the number",8,6*m = 3*m + 24,m
+what fraction when added to its reciprocal is equal to 13/6?,3/2 or 2/3,f + 1/f = 13/6,f
+if a number is added to its reciprocal the sum is 25/12. find the number.,4/3 or 3/4 | 1.333 or 0.75,n + 1/n = 25/12,n
+"when 60% of a number is added to the number, the result is 192. what is the number?",120,60/100*n + n = 192,n
+the sum of an integer and its square is 30. find the number?,5 or -6,x + x^2 = 30,x
+"if f(x) = x + 2, find the value of x if f(x) = 12.",10,x + 2 = 12,x
+"if .4% of a quantity is 2.4, find the total quantity.",600,0.4/100*q = 2.4,q
+"what percentage of 306,000 equals 8,200?",0.0268,x * 306000 = 8200,x
+4% of what number is 34?,850,4/100*n = 34,n
+30 is 75% of what number?,40,30 = 75/100*n,n
+what percent of 54 is 135?,2.5,x * 54 = 135,x
+56 is 75% of what number?,224/3 | 74.667,56 = 75/100*x,x
+if 18% of a number z is 54 find the value of z.,300,18/100*z = 54,z
+35% of what number is 70?,200,35/100*n = 70,n
+i have the number 640 and the number 80. i need to figure out what percentage 80 is of 640.,0.125,p*640=80,p
+what is the value of x?here's the equation: 3/5(x+2)=12.,18,3/5(x+2)=12,x
+"if 5 is decreased by 3 times a number, the result is -4",3,5 - 3*n = -4,n
+"if a number is doubled and the result decreased by 35, the result is 25. what is the number?",30,2*n - 35 = 25,n
+five times the sum of a number and eight is twenty-five. find the number.,-3,5(n + 8) = 25,n
+"if 6 times a number is added to 8, the result is 56. what is the number",8,8 + 6*n = 56,n
+the difference of 10 and the product of 6 and n is 21.,-11/6 | -1.833,10 - 6*n = 21,n
+three more than the product of a number and 4 is 15. find the number.,3,4*x + 3 = 15,x
+three less than twice what number is -7?,-2,2*x-3 = -7,x
+the sum of 3 times a number and 17 is 5. what is the number?,-4,3*x + 17 = 5,x
+"if you double a number and then add 32,the result is 80. what is the number?",24,2*n + 32 = 80,n
+two less than the product of a number and -5 is -42? what is the number?,8,-5 * n - 2 = -42,n
+two more than twice a number is equal to the number itself. find the number.,-2,2 + 2*n = n,n
+"when the square of an integer is added to ten times the integer, the sum is zero. what is the integer?",-10 or 0,10*n + n^2 = 0,n
+two consecutive odd integers have a sum of 48. what is the largest of the two integers?,25,(2*n+1)+(2*n+3) = 48,2*n+3
+four times an integer plus 5 is equal to the square of the integer. what is the integer?,-1 or 5,4*n + 5 = n^2,n
+"robert thinks of a number. when he multiples his number by 5 and subtracts 16 from the result, he gets the same answer as to when he adds 10 to his number and multiples the result by 3. find the number robert is thinking of.",23,5*x - 16 = (x + 10) * 3,x
+the sum of two times a number and eight is equal to three times the difference between the number and four. what's the number?,20,2*n + 8 = 3(n - 4),n
+twice the sum of a number and sixteen is five less than three times the number?find the number?,37,2(n + 16) = 3*n - 5,n
+find a number such that subtracting its reciprocal from the number gives 16/15.,5/3 or -3/5 | 1.667 or -0.6,n - 1/n = 16/15,n
+"if 240 : 3 = x : 5, what's the value of x?",400,240/3 = x/5,x
+"given that 7 : 2 = x : 8,find the value of x",28,7/2 = x/8,x
+how many eight-digit telephone numbers are possible if the first digit must be nonzero?,90000000 | 9E7,n = 9*10*10*10*10*10*10*10,n
+20% of the number is 3. find the number?,15,0.2*x = 3,x
+5 times a number equals 20what is the number?,4,5*n = 20,n
+15 is 25% of what number?,60,15 = 0.25*x,x
+36 is 60% of what number?,60,36 = 0.6*x,x
+four times the difference of a number and one is equal to six times the sum of the number and three. find the number.,-11,4(x - 1) = 6(x + 3),x
+16 more than a number is 20 more than twice the number.,-4,16 + n = 20 + 2*n,n
+"when 4 is added to 5 times a number,the number increases by 50. find the number.",23/2 | 11.5,5*n + 4 = n + 50,n
+the sum of a number and its reciprocal is 6.41. what is the number?,6.25 or 0.16 | 25/4 or 4/25,n + 1/n = 6.41,n
+the sum of a number and its reciprocal is 13. find this number.,12.923 or 0.0774,n + 1/n = 13,n
+the sum of a number and twice its reciprocal is 3. what is the number?,2 or 1,x + 2/x = 3,x
+"when the number x is increased by x%, it becomes 24. find x.",20 or -120,x*(1+0.01*x) = 24,x
+"if a number is multiplied by 5 more than twice that number, the result is 12. find the number?",3/2 or -4 | 1.5 or -4,x * (2*x + 5) = 12,x
+a 104 degree angle with 2 congruent sides is called?  a 104 degree angle with 2 congruent sides is called?,4 or 2,x^2 + 8 = 6*x,x
+the sum of a number and seven times the number is 112. what is the number?,14,x + 7*x = 112,x
+"how many 3-digit positive integers are odd and do not contain the digit ""5""?",288,n = 8 * 9 * 4,n
+"how many 3 digit even numbers can be made using the digits 1, 2, 3, 4, 6, 7, if no digit is repeated?",60,n=3*5*4,n
+"how many 3 digit numbers can you make using the digits 1, 2, 3, and 4 if the hundreds digit is prime and repetition of a digit is not permitted?",12,n = 2 * 3 * 2,n
+a number is 110 less than its square. find all such numbers.,-10 or 11,n = n^2 - 110,n
+the sum of one third of a number and its reciprocal is the same as 49 divided by the number. find the number,12 or -12,n/3 + 1/n = 49/n,n
+"what number, when added to the number three or multiplied to the three, gives the same result?",3/2 | 1.5,n + 3 = 3*n,n
+if the average of 20 different positive numbers is 20 then what is the greatest possible number among these 20 numbers?,210,(1+(20-1))*(20-1)/2 + x = 20*20,x
+"if 9n^2 - 30n + c is a perfect square for all integers n, what is the value of c?",25,30^2 = 4 * 9 * c,c
+what is the least value of k if 3x^2 + 6x + k is never negative?,3,6^2 = 4*3*k,k
+find the value of c that makes x^2+18x+c a perfect square trinomial.,81,18^2 = 4 * 1 * c,c
+find this quantity: one half of the quantity multiplied by one third of the quantity equals 24.,12 or -12,(1/2)q * (1/3)q = 24,q
+"if the expression x^2 - kx - 12 is equal to zero when x=4, what is the value of k?",1,4^2 - 4*k - 12 = 0,k
+a 3- digit number in which one digit is the average of the other two digits is called an average number. 456 is an average number because 5 is the average of 4 and 6. how many three digit average numbers are there?,45,n = 9 * 5,n
+"what is 8% of 2,000.",160,x = 2000 * 0.08,x
+what's 8% of 5.00?,0.4,x = 0.08 * 5,x
+one fourth of one third is the same as one half of what fraction?,1/6,(1/4) * (1/3) = (1/2) * x,x
+"when the number n is multiplied by 4, the result is the same as when 4 is added to n. what is the value of 3n?",4,4*n = 4 + n,3*n
+"when the number w is multiplied by 4, the result is the same as when 4 is added to w. what is the value of 3w?",4,4*w = w + 4,3*w
+how many whole numbers less than 500 have seven as the sum of their digits?,30,n = 1 + 7 + 7 + 6 + 5 + 4,n
+"if 4 less than 3 times a certain number is 2 more than the number, what is the number",3,3*x - 4 = 2 + x,x
+"when twice a number is decreased by 8, the result is the number increased by 7. find the number?",15,2*x - 8 = x + 7,x
+3 less than 5 times a number is 11 more than the number? find the number.,7/2 | 3.5,5*n - 3 = 11 + n,n
+"the first three terms of an arithmetic sequence are (12-p), 2p, (4p-5) respectively where p is a constant.find the value of p",7,2*p - (12-p) = (4*p-5) - 2*p,p
+"if the product of -3 and the opposite of a number is decreased by 7, the result is 1 greater than the number. what is the number?",4,-3*(-1 * n) - 7 = 1 + n,n
+what is the difference between the sum of the first 2004 positive integers and the sum of the next 2004 positive?,4016016,d = 2004 * (1 + 2004 - 1),d
+the sum of 2/3 and four times a number is equal to 5/6 subtracted from five times the number. find the number.,3/2 | 1.5,2/3 + 4*n = 5*n - 5/6,n
+"find the difference between the product of 26/22 and 3.09 and the sum of 3,507.00, 2.08, 11.50 and 16,712.00",-22251821/1100 | -20228.928,"x = 26/22 * 3.09 - (3507.00 + 2.08 + 11.50 + 16,712.00)",x
+what is 5/9 times 36?,20,x = 5/9 * 36,x
+what number is 5 sixths of 100?,250/3 | 83.333,x = 5/6 * 100,x
+5/6 of a number is 3/4. what is the number?,9/10 | 0.9,5/6 * n = 3/4,n
+what is the value of x in the following equation?3x - 4(x + 1) + 10 = 0,6,3*x - 4(x + 1) + 10 = 0,x
+"a whole number between 100 and 1000 is to be formed so that one of the digits is 6, and all the digits are different. how many numbers are possible.",200,x = 9*8 + 8*8 + 8*8,x
+how many permutations of digits in the number 12345 will make an even number?,48,n = 2 * (4 * 3 * 2 * 1),n
+how many 1/4 ounces are in 56 pounds?,3584,x*(1/4) = 56 * 16,x
+what number minus one-half is equal to negative one-half ?,0,x - 1/2 = -1/2,x
+16 over 24 minus 18 over 24?,-1/12 | -0.0833,x = 16/24 - 18/24,x
+"the quotient of -54 and 9, subtracted from 8 times a number, is -18. what's the number?",-3,8*n - (-54)/9 = -18,n
+"if 30% of 40% of a positive # is equal to 20% of w% of the same #, what is the value of w?",60,30/100*40/100*n = 20/100*w/100*n,w
+square root six over square root 7 multiplied by square root 14 over square root 3.,2,x = (sqrt(6)/sqrt(7)) * (sqrt(14)/sqrt(3)),x
+"if 4 is added to the square of a composite integer, the result is 14 less than 9 times that integer. find the integer.",6,4 + n^2 = 9*n - 14,n
+"how many four-digit numbers can be formed using the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9 if the first digit cannot be 0? repeated digits are allowed.",9000,n = 9 * 10 * 10 * 10,n
+the equation is 10x - 19 = 9 - 4x. what's the value of x?,2,10*x - 19 = 9 - 4*x,x
+twelve less than 2 times a number is equal to 15 minus 7 times the number.,3,2*n - 12 = 15 - 7*n,n
